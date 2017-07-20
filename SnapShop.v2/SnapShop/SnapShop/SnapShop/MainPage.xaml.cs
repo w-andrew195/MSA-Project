@@ -7,11 +7,12 @@ using Xamarin.Forms;
 
 namespace SnapShop
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : TabbedPage
     {
         public MainPage()
         {
             InitializeComponent();
+            image.Source = ImageSource.FromFile("logo.png");
         }
     }
 }

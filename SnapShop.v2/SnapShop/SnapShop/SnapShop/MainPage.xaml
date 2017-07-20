@@ -1,11 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SnapShop"
-             x:Class="SnapShop.MainPage">
+             x:Class="SnapShop.MainPage" BarBackgroundColor="Orange">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <TabbedPage.Children>
+<!--Capture Page -->
+        <ContentPage Title="Capture" BackgroundColor="Beige">
+            <ScrollView>
+                <StackLayout Spacing="20" Padding="40">
+                    <Image x:Name="image" Aspect="AspectFit" TranslationY="30" />
+                </StackLayout>
+            </ScrollView>
+        </ContentPage>
+<!--History Page -->
+        <ContentPage Title="History" BackgroundColor="Beige">
+            <ScrollView>
+                <StackLayout Spacing="20" Padding="40">
+                    <Label>History</Label>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage>
+    </TabbedPage.Children>
 
-</ContentPage>
+</TabbedPage>

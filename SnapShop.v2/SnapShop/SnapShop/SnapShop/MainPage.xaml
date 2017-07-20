@@ -11,7 +11,7 @@
                 <StackLayout Spacing="20" Padding="40">
                     <Button Text="Capture" Clicked="Button_Clicked" BackgroundColor="Orange" TextColor="White"/>
                         <Image x:Name="image" Aspect="AspectFit" TranslationY="30" />
-                    
+                    <Label x:Name="TagLabel"></Label>
                 </StackLayout>
             </ScrollView>
         </ContentPage>

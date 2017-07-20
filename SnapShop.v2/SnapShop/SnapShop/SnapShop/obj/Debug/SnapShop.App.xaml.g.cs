@@ -11,7 +11,7 @@
 namespace SnapShop {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Andrew\\MSA\\SnapShop.v2\\SnapShop\\SnapShop\\SnapShop\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Andrew\\MSA-Project\\SnapShop.v2\\SnapShop\\SnapShop\\SnapShop\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

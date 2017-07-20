@@ -100,6 +100,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "SnapShop.Android.dll" comes first in this list. */
 		"SnapShop.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Media.Abstractions.dll",
 		"Plugin.Media.dll",

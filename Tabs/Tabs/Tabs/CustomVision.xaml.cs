@@ -21,9 +21,10 @@ namespace Tabs
         public CustomVision()
         {
             InitializeComponent();
+            image.Source = ImageSource.FromFile("logo.png");
         }
         string placeName = "";
-
+        
         private async void loadCamera(object sender, EventArgs e)
         {
             await CrossMedia.Current.Initialize();

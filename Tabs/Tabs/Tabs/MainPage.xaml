@@ -2,18 +2,18 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Tabs"
-             x:Class="Tabs.MainPage" >
-    
-    <NavigationPage Title ="Capture">
+             x:Class="Tabs.MainPage" BarBackgroundColor="#3498db">
+
+    <NavigationPage Title ="Capture" BarBackgroundColor="#3498db">
         <x:Arguments>
             <local:CustomVision />
         </x:Arguments>
     </NavigationPage>
 
-    <NavigationPage Title="History">
+    <NavigationPage Title="History" BarBackgroundColor="#3498db">
         <x:Arguments>
             <local:AzureTable />
         </x:Arguments>
     </NavigationPage>
 
-</TabbedPage>
+</TabbedPage> 

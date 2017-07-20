@@ -5,7 +5,7 @@
     </ContentPage.Padding>
     <ContentPage.Content>
         <StackLayout Margin="20">
-            <Button Text="Refresh Information" Clicked="Handle_ClickedAsync" />
+            <Button Text="Refresh Information" Clicked="Handle_ClickedAsync"  BackgroundColor="#3498db" TextColor="White"/>
             <StackLayout Orientation="Horizontal">
                 <Label Margin="20,0,0,0" VerticalTextAlignment="Center" FontAttributes="Bold">Date</Label>
                 <Label VerticalTextAlignment="Center" Margin="97,0,0,0" FontAttributes="Bold">Place</Label>

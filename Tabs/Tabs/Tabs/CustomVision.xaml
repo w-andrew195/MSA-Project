@@ -2,13 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Tabs.CustomVision" Title="SnapShop">
+    
     <ContentPage.Content>
         <ScrollView>
         <StackLayout Margin="20" Orientation="Vertical">
-            <Button Text="Capture" Clicked="loadCamera" />
-            <Image x:Name="image" />
-            <Label x:Name="TagLabel" FontAttributes="Bold"></Label>
-        </StackLayout>
-        </ScrollView>
+
+                <Button Text="Capture" Clicked="loadCamera" BackgroundColor="#3498db" TextColor="White"/>
+            <Image x:Name="image" Aspect="AspectFit" TranslationY="25" />
+            <Label x:Name="TagLabel" FontAttributes="Bold" Margin="0,50,0,0"></Label>
+   
+    </StackLayout>
+        </ScrollView> 
     </ContentPage.Content>
+    
 </ContentPage>

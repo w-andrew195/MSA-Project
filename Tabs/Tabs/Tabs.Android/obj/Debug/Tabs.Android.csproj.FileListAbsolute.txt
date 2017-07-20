@@ -253,8 +253,6 @@ E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
@@ -268,7 +266,6 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstra
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.dll
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
@@ -284,8 +281,6 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
@@ -324,7 +319,6 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.md
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\icon.png
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -348,3 +342,15 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.m
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\logo.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\logo.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\logo.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xxhdpi\logo.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\SnapShop.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\SnapShop.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\AFG.AFG.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\AFG.AFG-Signed.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\AFG.AFG.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config

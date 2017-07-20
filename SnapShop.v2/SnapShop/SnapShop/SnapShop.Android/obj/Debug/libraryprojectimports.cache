@@ -7,6 +7,7 @@
     <ResolvedResourceDirectory>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Plugin.Media\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
@@ -14,6 +15,7 @@
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Media\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -22,5 +24,6 @@
     <ResolvedResourceDirectoryStamp>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\__library_projects__\Plugin.Media.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

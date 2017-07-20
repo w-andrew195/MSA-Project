@@ -6,12 +6,14 @@
 
     <TabbedPage.Children>
 <!--Capture Page -->
+
         <ContentPage Title="Capture" BackgroundColor="Beige">
             <ScrollView>
                 <StackLayout Spacing="20" Padding="40">
                     <Button Text="Capture" Clicked="Button_Clicked" BackgroundColor="Orange" TextColor="White"/>
                         <Image x:Name="image" Aspect="AspectFit" TranslationY="30" />
-                    <Label x:Name="TagLabel"></Label>
+                    <Label x:Name="TagLabel" TranslationY="30" FontAttributes="Bold" TextColor="DimGray"> Company Here
+                    </Label>
                 </StackLayout>
             </ScrollView>
         </ContentPage>

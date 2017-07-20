@@ -66,3 +66,15 @@ E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\r
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\res\drawable-xxhdpi\logo.png
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\R.cs.flag
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\uploadflags.txt
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\SnapShop.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\SnapShop.Android.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\SnapShop.Android.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\SnapShop.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

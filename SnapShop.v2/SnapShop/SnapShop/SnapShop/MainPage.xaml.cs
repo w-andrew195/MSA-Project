@@ -10,17 +10,26 @@ using Plugin.Media;
 using Plugin.Media.Abstractions;
 using Xamarin.Forms;
 using SnapShop.Model;
+using SnapShop.DataModels;
+using Microsoft.WindowsAzure.MobileServices;
+using System.Collections.Generic;
 
 namespace SnapShop
 {
     public partial class MainPage : TabbedPage
     {
+        MobileServiceClient client = AzureManager.AzureManagerInstance.AzureClient;
         public MainPage()
         {
             InitializeComponent();
             image.Source = ImageSource.FromFile("logo.png");
         }
+        async void Handle_ClickedAsync(object sender, System.EventArgs e)
+        {
+            List<SnapShopData> GetInfo = await AzureManager.AzureManagerInstance.GetInformation();
 
+            HotDogList.ItemsSource = GetInfo;
+        }
         private async void Button_Clicked(object sender, EventArgs e)
         {
 
@@ -83,8 +92,6 @@ namespace SnapShop
                     var responseString = await response.Content.ReadAsStringAsync();
 
                     EvaluationModel responseModel = JsonConvert.DeserializeObject<EvaluationModel>(responseString);
-
-                    double max = responseModel.Predictions.Max(m => m.Probability);
 
                     TagLabel.Text = responseModel.Predictions.ToList()[0].Tag;
 

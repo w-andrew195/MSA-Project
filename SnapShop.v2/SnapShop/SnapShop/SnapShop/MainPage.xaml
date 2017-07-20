@@ -20,9 +20,25 @@
         
 <!--History Page -->
         <ContentPage Title="History" BackgroundColor="Beige">
+            <ContentPage.Padding>
+                <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0"/>
+            </ContentPage.Padding>
             <ScrollView>
-                <StackLayout Spacing="20" Padding="40">
-                    <Label>History</Label>
+                <StackLayout>
+                    <Button Text="Load Information" TextColor="White" BackgroundColor="Orange" Clicked="Handle_ClickedAsync" />
+                    <ListView x:Name="HotDogList" HasUnevenRows="True">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding Date}" HorizontalOptions="FillAndExpand" Margin="20,0,0,0" VerticalTextAlignment="Center" />
+                                        <Label Text="{Binding Time}" HorizontalOptions="FillAndExpand" Margin="20,0,0,0" VerticalTextAlignment="Center" />
+                                        <Label Text="{Binding Places}" VerticalTextAlignment="Center" Margin="0,0,20,0" />
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
                 </StackLayout>
             </ScrollView>
         </ContentPage>

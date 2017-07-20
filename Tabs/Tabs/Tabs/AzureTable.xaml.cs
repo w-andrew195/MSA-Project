@@ -16,6 +16,7 @@ namespace Tabs
         public AzureTable()
         {
             InitializeComponent();
+            RetrieveInformation();
         }
 
         async void Handle_ClickedAsync(object sender, System.EventArgs e)
@@ -24,7 +25,12 @@ namespace Tabs
 
             HotDogList.ItemsSource = notHotDogInformation;
         }
+        async Task RetrieveInformation()
+        {
+            List<SnapShopNZInformation> notHotDogInformation = await AzureManager.AzureManagerInstance.GetHotDogInformation();
 
+            HotDogList.ItemsSource = notHotDogInformation;
+        }
 
     }
 }

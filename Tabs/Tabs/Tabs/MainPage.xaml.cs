@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Microsoft.WindowsAzure.MobileServices;
 
+
 namespace Tabs
 {
     public partial class MainPage : TabbedPage
@@ -14,7 +15,9 @@ namespace Tabs
         {
             
             InitializeComponent();
+            
         }
+
 
     }
 }

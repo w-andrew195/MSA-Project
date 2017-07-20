@@ -30,7 +30,7 @@ namespace Tabs
 
             if (!CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)
             {
-                await DisplayAlert("No Camera", ":( No camera available.", "OK");
+                await DisplayAlert("No Camera", "No camera available.", "OK");
                 return;
             }
 

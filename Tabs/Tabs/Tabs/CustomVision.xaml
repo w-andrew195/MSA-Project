@@ -5,9 +5,9 @@
     <ContentPage.Content>
         <ScrollView>
         <StackLayout Margin="20" Orientation="Vertical">
-            <Button Text="Take Photo and Analyze" Clicked="loadCamera" />
+            <Button Text="Capture" Clicked="loadCamera" />
             <Image x:Name="image" />
-            <Label x:Name="TagLabel"></Label>
+            <Label x:Name="TagLabel" FontAttributes="Bold"></Label>
         </StackLayout>
         </ScrollView>
     </ContentPage.Content>

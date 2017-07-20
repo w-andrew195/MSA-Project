@@ -1,0 +1,350 @@
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Andrew Wang\Documents\GitHub\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.config
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

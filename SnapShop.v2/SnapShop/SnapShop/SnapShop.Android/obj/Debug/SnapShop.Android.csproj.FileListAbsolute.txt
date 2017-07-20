@@ -23,6 +23,8 @@ E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\X
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Platform.dll
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Primitives.dll
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\SnapShop.pdb
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\SnapShop.dll.config
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\FormsViewGroup.pdb
@@ -49,6 +51,8 @@ E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\X
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Primitives.xml
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\SnapShop.Android.csprojResolveAssemblyReference.cache
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\SnapShop.Android.dll
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\SnapShop.Android.pdb
@@ -78,3 +82,7 @@ E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\a
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Extensions.dll
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\System.Net.Http.Extensions.xml
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\Andrew\MSA-Project\SnapShop.v2\SnapShop\SnapShop\SnapShop.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml

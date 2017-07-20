@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Microsoft.WindowsAzure.MobileServices;
 namespace SnapShop.DataModels
 {
     public class SnapShopData
@@ -12,13 +13,10 @@ namespace SnapShop.DataModels
         public string ID { get; set; }
 
         [JsonProperty(PropertyName = "Date")]
-        public float Date { get; set; }
-
-        [JsonProperty(PropertyName = "Time")]
-        public float Time { get; set; }
+        public string Date { get; set; }
 
         [JsonProperty(PropertyName = "Places")]
-        public float Places { get; set; }
+        public string Places { get; set; }
 
     }
 }

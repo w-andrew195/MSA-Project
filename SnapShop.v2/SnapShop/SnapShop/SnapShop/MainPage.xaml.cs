@@ -23,7 +23,9 @@ namespace SnapShop
         {
             InitializeComponent();
             image.Source = ImageSource.FromFile("logo.png");
-        }
+                    }
+        string placeName = "";
+
         async void Handle_ClickedAsync(object sender, System.EventArgs e)
         {
             List<SnapShopData> GetInfo = await AzureManager.AzureManagerInstance.GetInformation();
@@ -59,6 +61,22 @@ namespace SnapShop
 
 
             await MakePredictionRequest(file);
+            await postLocationAsync();
+        }
+
+        async Task postLocationAsync()
+        {
+
+            DateTime thisDay = DateTime.Today;
+
+            SnapShopData model = new SnapShopData()
+            {
+                Date = thisDay.ToString("g"),
+                Places = placeName
+
+            };
+
+            await AzureManager.AzureManagerInstance.PostHotDogInformation(model);
         }
 
         static byte[] GetImageAsByteArray(MediaFile file)
@@ -94,7 +112,7 @@ namespace SnapShop
                     EvaluationModel responseModel = JsonConvert.DeserializeObject<EvaluationModel>(responseString);
 
                     TagLabel.Text = responseModel.Predictions.ToList()[0].Tag;
-
+                    placeName = responseModel.Predictions.ToList()[0].Tag;
                 }
 
                 

@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.WindowsAzure.MobileServices;
 using SnapShop.DataModels;
+using System.Net.Http;
+using System.Net.Http.Headers;
 namespace SnapShop
 {
     public class AzureManager
@@ -15,7 +17,7 @@ namespace SnapShop
 
         private AzureManager()
         {
-            this.client = new MobileServiceClient("http://snapshopnz.azurewebsites.net");
+            this.client = new MobileServiceClient("http://snapshopnz.azurewebsites.net"); //Exception Here
             this.DataTable = this.client.GetTable<SnapShopData>();
         }
 
@@ -40,5 +42,11 @@ namespace SnapShop
         {
             return await this.DataTable.ToListAsync();
         }
+
+        public async Task PostHotDogInformation(SnapShopData DataModel)
+        {
+            await this.DataTable.InsertAsync(DataModel);
+        }
+
     }
 }

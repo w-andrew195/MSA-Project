@@ -32,7 +32,6 @@
                                 <ViewCell>
                                     <StackLayout Orientation="Horizontal">
                                         <Label Text="{Binding Date}" HorizontalOptions="FillAndExpand" Margin="20,0,0,0" VerticalTextAlignment="Center" />
-                                        <Label Text="{Binding Time}" HorizontalOptions="FillAndExpand" Margin="20,0,0,0" VerticalTextAlignment="Center" />
                                         <Label Text="{Binding Places}" VerticalTextAlignment="Center" Margin="0,0,20,0" />
                                     </StackLayout>
                                 </ViewCell>

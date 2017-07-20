@@ -104,7 +104,11 @@ namespace Tabs
                     
                     placeName = responseModel.Predictions.ToList()[0].Tag;
                     TagLabel.Text = responseModel.Predictions.ToList()[0].Tag;
-                    
+                    DataEntry DataOut = new DataEntry();
+                    string website = DataOut.checker(placeName);
+                    DataOutLabel.Text = website; 
+                    //DataOutLabel.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked()));
+
                 }
 
                 file.Dispose();

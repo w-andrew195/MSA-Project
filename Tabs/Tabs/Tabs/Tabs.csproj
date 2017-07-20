@@ -45,6 +45,7 @@
     <Compile Include="CustomVision.xaml.cs">
       <DependentUpon>CustomVision.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DataEntry.cs" />
     <Compile Include="DataModels\SnapShopNZInformation.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>

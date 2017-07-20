@@ -1,7 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Plugin.Media;
+using Plugin.Media.Abstractions;
+using System;
+using System.Diagnostics;
+using System.IO;
+//using System.Net.Http;
+//using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -13,6 +16,11 @@ namespace SnapShop
         {
             InitializeComponent();
             image.Source = ImageSource.FromFile("logo.png");
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            
         }
     }
 }

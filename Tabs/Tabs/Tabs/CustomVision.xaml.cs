@@ -36,7 +36,7 @@ namespace Tabs
 
             if (!CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)
             {
-                await DisplayAlert("No Camera", "No camera available.", "OK");
+                await DisplayAlert("No Camera", "No camera available.", "Ok");
                 return;
             }
 
@@ -55,18 +55,20 @@ namespace Tabs
                 return file.GetStream();
             });
 
-            
+            placeName = "Please Wait...";
+            TagLabel.Text = placeName;
             await MakePredictionRequest(file);
             await postLocationAsync();
+
         }
 
         async Task postLocationAsync()
         {
-            DateTime thisDay = DateTime.Today;
+            DateTime thisDay = DateTime.Now;
 
             SnapShopNZInformation model = new SnapShopNZInformation()
             {
-                Date = thisDay.ToString("d"),
+                Date = thisDay.ToString("dd/MM/yy - HH:mm"),
                 Place = placeName
 
             };

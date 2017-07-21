@@ -11,7 +11,7 @@
 namespace Tabs {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Andrew\\MSA\\Tabs\\Tabs\\Tabs\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Andrew\\MSA-Project\\Tabs\\Tabs\\Tabs\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -127,6 +127,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Base.dll",
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
+		"System.Data.DataSetExtensions.dll",
 		"Tabs.dll",
 	};
 	public static final String[] Dependencies = new String[]{

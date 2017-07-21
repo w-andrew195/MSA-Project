@@ -32,11 +32,13 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Microsoft.
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Mono.Android.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\mscorlib.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Core.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Data.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.IO.Compression.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Net.Http.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Xml.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Data.DataSetExtensions.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Runtime.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
@@ -75,4 +77,6 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Run
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.ComponentModel.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Mono.CSharp.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\System.Transactions.dll
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Mono.Data.Tds.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Mono.Security.dll

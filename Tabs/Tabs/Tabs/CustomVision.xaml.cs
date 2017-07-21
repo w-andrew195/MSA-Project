@@ -13,7 +13,11 @@ using Xamarin.Forms;
 using Microsoft.WindowsAzure.MobileServices;
 using Tabs.DataModels;
 using Plugin.Geolocator;
-
+using Android.Net;
+using Android.App;
+using Android.OS;
+using Android.Widget;
+using Android.Util;
 namespace Tabs
 {
     public partial class CustomVision : ContentPage
@@ -25,6 +29,8 @@ namespace Tabs
         }
         string placeName = "";
         
+
+
         private async void loadCamera(object sender, EventArgs e)
         {
             await CrossMedia.Current.Initialize();

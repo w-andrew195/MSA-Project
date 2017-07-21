@@ -113,12 +113,6 @@ E:\Andrew\MSA\Tabs\Tabs\Tabs\obj\Debug\Tabs.Share.xaml.g.cs
 E:\Andrew\MSA\Tabs\Tabs\Tabs\obj\Debug\Tabs.dll
 E:\Andrew\MSA\Tabs\Tabs\Tabs\obj\Debug\Tabs.pdb
 E:\Andrew\MSA\Tabs\Tabs\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.csproj.App.config
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.MainPage.xaml.g.cs
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.App.xaml.g.cs
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.AzureTable.xaml.g.cs
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Tabs.dll.config
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Tabs.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Tabs.pdb
@@ -156,5 +150,11 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Core.xml
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Platform.pdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.csproj.App.config
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.MainPage.xaml.g.cs
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.App.xaml.g.cs
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.AzureTable.xaml.g.cs
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs\obj\Debug\Tabs.pdb

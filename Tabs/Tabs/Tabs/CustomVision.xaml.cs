@@ -14,10 +14,8 @@ using Microsoft.WindowsAzure.MobileServices;
 using Tabs.DataModels;
 using Plugin.Geolocator;
 using Android.Net;
-using Android.App;
-using Android.OS;
-using Android.Widget;
-using Android.Util;
+using Android.Content;
+
 namespace Tabs
 {
     public partial class CustomVision : ContentPage
@@ -26,13 +24,14 @@ namespace Tabs
         {
             InitializeComponent();
             image.Source = ImageSource.FromFile("logo.png");
+            
+
         }
         string placeName = "";
-        
-
 
         private async void loadCamera(object sender, EventArgs e)
         {
+           
             await CrossMedia.Current.Initialize();
 
             if (!CrossMedia.Current.IsCameraAvailable || !CrossMedia.Current.IsTakePhotoSupported)
@@ -112,8 +111,16 @@ namespace Tabs
                     TagLabel.Text = responseModel.Predictions.ToList()[0].Tag;
                     DataEntry DataOut = new DataEntry();
                     string website = DataOut.checker(placeName);
-                    DataOutLabel.Text = website; 
-                    //DataOutLabel.GestureRecognizers.Add(new TapGestureRecognizer((view) => OnLabelClicked()));
+                    DataOutLabel.Text = website;
+                    
+                    
+
+                    var tapGestureRecognizer = new TapGestureRecognizer();
+                    tapGestureRecognizer.Tapped += (s, e) => {
+
+                        Device.OpenUri(new System.Uri(website));
+                    };
+                    DataOutLabel.GestureRecognizers.Add(tapGestureRecognizer);
 
                 }
 

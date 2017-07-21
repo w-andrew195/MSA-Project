@@ -250,7 +250,6 @@ E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
 E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Andrew\MSA\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
@@ -322,6 +321,7 @@ E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.An
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
 E:\Andrew\MSA-Project\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\AFG.AFG.apk
